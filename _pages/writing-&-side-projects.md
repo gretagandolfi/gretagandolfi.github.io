@@ -28,4 +28,4 @@ _Academic Events_
   
 _Non-Academic Events_
   * [EchoCollettivi](https://www.instagram.com/p/CX6dJs6t36y/), a collection of 30 associations, groups and collectives that - at various levels - embrace the community and mobilize towards environmental, social, artistic and cultural causes. [Organiser]
-  * [Il Giornale degli Studenti](https://www.instagram.com/p/CMhOLFvCwP5/), Infromagiovani Brescia, a project to bring our knowledge of how to create, build and run an online magazing and to indepently create a space for the voices of our generation to high school students in Brescia. [Organiser and speaker].
+  * [Il Giornale degli Studenti](https://www.instagram.com/p/CMhOLFvCwP5/), Infromagiovani Brescia, a project to bring our knowledge of how to create, build and run an online magazine and to indepently create a space for the voices of our generation to high school students in Brescia. [Organiser and speaker].
