@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "about me"
+title                    : "Greta"
 title_separator          : "-"
 name                     : &name "Greta Gandolfi"
-description              : &description "I'm second year PhD student at PPLS (UoE) & and CoBra Network (A Marie Skłodowska-Curie Innovative Training Network)"
+description              : &description "I'm second year PhD student at PPLS (UoE) & and CoBra Network"
 url                      : https://gretagandolfi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gretagandolfi/gretagandolfi.github.io"
