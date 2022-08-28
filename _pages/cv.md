@@ -30,7 +30,7 @@ Writing & Publishing Experience
 Event Organisation & Networking Experience 
 --
 * Ongoing Projects
-  * Organiser and moderator of the [Psycholinguistic Coffee] with Esperanza Badaya (https://blogs.ed.ac.uk/psycholingcoffee/)
+  * Organiser and moderator of the [Psycholinguistic Coffee](https://blogs.ed.ac.uk/psycholingcoffee/) with Esperanza Badaya
   * Organiser of writing hours and social activities for PhD students in Psychology (PPLS, UoE) with Esperanza Badaya
   * Organiser fo [LINk2022](https://linkedi2022.github.io/) with Esperanza Badaya
 * Past Projects
