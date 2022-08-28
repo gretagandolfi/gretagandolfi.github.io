@@ -8,9 +8,9 @@ I like writing and I've got the opportunity to make some experiences throughout 
 Here are some selected pieces: 
 
 _English_
-* [Data Visualisation: what should we learn from accessibility and data journalism](https://www.cobra-network.eu/2021/05/19/data-visualisation-what-should-we-learn-from-accessibility-and-data-journalism/). 2021. CoBra Research Blog.
-* [Why conversation is so easy: A series of lectures by Prof. Martin Pickering](https://www.cobra-network.eu/2021/04/08/why-conversation-is-so-easy-a-series-of-lectures-by-prof-martin-pickering/). 2021. CoBra Research Blog.
-* [Taking time to read and write as a radical act of love for research](https://www.cobra-network.eu/2022/02/09/taking-time-to-read-and-write-as-a-radical-act-of-love-for-research/). 2022. CoBra Research Blog.
+* [Data Visualisation: what should we learn from accessibility and data journalism](https://www.cobra-network.eu/2021/05/19/data-visualisation-what-should-we-learn-from-accessibility-and-data-journalism/). 2021. CoBra Blog.
+* [Why conversation is so easy: A series of lectures by Prof. Martin Pickering](https://www.cobra-network.eu/2021/04/08/why-conversation-is-so-easy-a-series-of-lectures-by-prof-martin-pickering/). 2021. CoBra Blog.
+* [Taking time to read and write as a radical act of love for research](https://www.cobra-network.eu/2022/02/09/taking-time-to-read-and-write-as-a-radical-act-of-love-for-research/). 2022. CoBra Blog.
 
 _Italian_
 * [Usare la scienza come strumento politico](https://echoraffiche.com/usare-la-scienza-come-strumento-politico/). 2021. Echoraffiche.
