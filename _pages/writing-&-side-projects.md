@@ -1,3 +1,8 @@
+---
+permalink: /writing-&-side-projects/
+title: "Writing & Projects"
+---
+
 I like writing and I've got the opportunity to make some experiences throughout my school years. As part of an internship program, during my bachelor, I was an editor assistant at [Centro Study Politeia](http://www.politeia-centrostudi.org), Università degli Studi di Milano. I'm now one of the editors and the current chair of the [CoBra Network Research Blog](https://www.cobra-network.eu/research-blog/) and one of the editor at [Echoraffiche](https://echoraffiche.com). Echoraffiche is an Italian slow-journalism online magazine and cultural organisation based in Brescia, my home town (https://echoraffiche.com/). We are committed to value the local roots of our project, keeping an eye and being inspired by what happens at the national and global level.  
 
 Here are some selected pieces: 
