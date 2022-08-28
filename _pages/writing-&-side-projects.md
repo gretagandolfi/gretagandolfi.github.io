@@ -17,6 +17,7 @@ _Italian_
 * [Gender data gap ed essenzialismo, cosa evitare per far fronte comune](https://echoraffiche.com/gender-data-gap-ed-essenzialismo-cosa-evitare-per-far-fronte-comune/). 2021. Echoraffiche.
 * [Ripensare il lavoro: di come il tempo è spazio di potere, e di come farlo nostro](https://echoraffiche.com/ripensare-il-lavoro-di-come-il-tempo-e-spazio-di-potere-e-di-come-farlo-nostro/). 2022. Echoraffiche. 
 
+----
 
 I also enjoy creating spaces for young researchers and writers by organising small-scale events, both in and outside Academia. 
 
@@ -25,6 +26,6 @@ _Academic Events_
   * Writing hours and social activities for PhD students in Psychology (PPLS, UoE). Writing hours are open, hybrid session where students can meet to write, discuss their writing process and ask for help. [Organiser, with Esperanza Badaya]
   * [LINk2022](https://linkedi2022.github.io/), a two-day event, targeting postgraduate students and early-stage career researchers, who are interested in Psychology of Language and are based in Scotland and the northern UK, planned for this fall. [Organiser, with Esperanza Badaya]
   
-_Non Academic Events_
+_Non-Academic Events_
   * [EchoCollettivi](https://www.instagram.com/p/CX6dJs6t36y/), a collection of 30 associations, groups and collectives that - at various levels - embrace the community and mobilize towards environmental, social, artistic and cultural causes. [Organiser]
   * [Il Giornale degli Studenti](https://www.instagram.com/p/CMhOLFvCwP5/), Infromagiovani Brescia, a project to bring our knowledge of how to create, build and run an online magazing and to indepently create a space for the voices of our generation to high school students in Brescia. [Organiser and speaker].
