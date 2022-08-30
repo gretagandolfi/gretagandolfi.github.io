@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-**Presentation**. 11 May 2022. Psycholinguistics Coffee._**Misalignment in alignment research**_. Lena-Marie Huttner, **Greta Gandolfi**, Joanna Kruyt.
+**Presentation**. 11 May 2022. Psycholinguistics Coffee. _**Misalignment in alignment research**_. Lena-Marie Huttner, **Greta Gandolfi**, Joanna Kruyt.
 
 **Presentation**. 26 May 2021. Psycholinguistics Coffee. _**Conceptual alignment and its meta-representation promote communication success**_. **Greta Gandolfi**. 
 
