@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "TALKS"
+title: 
 permalink: /talks/
 author_profile: true
 ---
