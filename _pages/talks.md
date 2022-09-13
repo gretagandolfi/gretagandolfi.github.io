@@ -4,7 +4,7 @@ title:
 permalink: /talks/
 author_profile: true
 ---
-**Poster**. 09 September 2022. AMLaP 2022. York (UK) _**Social status, language use, and context: Insights from lexical entrainment**_. **Greta Gandolfi**, Anita Tobar Henríquez & Martin J. Pickering.
+**Poster**. 09 September 2022. AMLaP 2022. York (UK). _**Social status, language use, and context: Insights from lexical entrainment**_. **Greta Gandolfi**, Anita Tobar Henríquez & Martin J. Pickering.
 
 **Presentation**. 11 May 2022. Psycholinguistics Coffee. Online. _**Misalignment in alignment research**_. Lena-Marie Huttner, **Greta Gandolfi**, Joanna Kruyt.
 
