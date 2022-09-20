@@ -10,7 +10,7 @@ author_profile: true
 
 **Presentation**. 26 May 2021. Psycholinguistics Coffee. Online. _Conceptual alignment and its meta-representation promote communication success_. **Greta Gandolfi**. 
 
-**Poster**. 29 June 2021. Psycholinguistics Coffee. Beonline 2021. Online. _The Effect of Social Status Perception on Lexical Alignment_. **Greta Gandolfi**, Anita Tobar Henríquez & Martin J. Pickering.
+**Poster**. 29 June 2021. Beonline 2021. Online. _The Effect of Social Status Perception on Lexical Alignment_. **Greta Gandolfi**, Anita Tobar Henríquez & Martin J. Pickering.
 
 **Poster**. 1 March 2021. CLIC-IT 2020. Online. _Predicting Social Exclusion. A Study of Linguistic Ostracism in Social Networks_. **Greta Gandolfi**, Carlo Strapparava.
 
