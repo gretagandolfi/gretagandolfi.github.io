@@ -4,6 +4,8 @@ title:
 permalink: /talks/
 author_profile: true
 ---
+**Talk**. 22 September 2022. XPRAG 2022. Pavia (IT). _Social status modulates lexical entrainment, but only when we are paying attention_. **Greta Gandolfi**, Anita Tobar Henríquez & Martin J. Pickering.
+
 **Poster**. 09 September 2022. AMLaP 2022. York (UK). _Social status, language use, and context: Insights from lexical entrainment_. **Greta Gandolfi**, Anita Tobar Henríquez & Martin J. Pickering.
 
 **Presentation**. 11 May 2022. Psycholinguistics Coffee. Online. _Misalignment in alignment research_. Lena-Marie Huttner, **Greta Gandolfi**, Joanna Kruyt.
