@@ -21,7 +21,7 @@ _Italian_
 I also enjoy creating spaces for young researchers and writers by organising small-scale events, both in and outside Academia. 
 
 _Academic Events_
-  * [Psycholinguistic Coffee](https://blogs.ed.ac.uk/psycholingcoffee/), an informal meeting to discuss Psycholinguistic research, presented by internal or external postgraduate students and early career researchers. Talks include published research, work in progress, and practice runs for conference presentations. [Organiser and moderator, with Esperanza Badaya]
+  * [Psycholinguistics Coffee](https://blogs.ed.ac.uk/psycholingcoffee/), an informal meeting to discuss Psycholinguistic research, presented by internal or external postgraduate students and early career researchers. Talks include published research, work in progress, and practice runs for conference presentations. [Organiser and moderator, with Esperanza Badaya]
   * Writing hours and social activities for PhD students in Psychology (PPLS, UoE). Writing hours are open, hybrid sessions where students can meet to write, discuss their writing process and ask for help. [Organiser, with Esperanza Badaya]
   * [LINk2022](https://linkedi2022.github.io/), a two-day event, targeting postgraduate students and early-stage career researchers who are interested in the Psychology of Language. It is planned for this fall. [Organiser, with Esperanza Badaya]
   
