@@ -16,7 +16,7 @@ author_profile: true
 
 **Poster**. 1 March 2021. CLIC-IT 2020. Online. _Predicting Social Exclusion. A Study of Linguistic Ostracism in Social Networks_. **Greta Gandolfi**, Carlo Strapparava.
 
-**Talk**. 28 January 2021. Online. _Theoretical and Experimental Approaches to Modification. Adjective Ordering: a Compositional Distributional Semantics Approach_. Roberto Zamparelli, Nicola Sartorato, Eleonora Gualdoni and **Greta Gandolfi**. 
+**Talk**. 28 January 2021. Theoretical and Experimental Approaches to Modification. Online. _Adjective Ordering: a Compositional Distributional Semantics Approach_. Roberto Zamparelli, Nicola Sartorato, Eleonora Gualdoni and **Greta Gandolfi**. 
 
 **Poster**. 31 July 2020. CogSci 2020. Online. _Predicting Social Exclusion: A Computational Linguistic Approach to the Detection of Ostracism._ **Greta Gandolfi**, Carlo Strapparava.
 
