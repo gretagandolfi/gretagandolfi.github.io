@@ -8,6 +8,8 @@ author_profile: true
 
 **Poster**. 31 May 2023. PiF 2023. Ghent (BE). _Contested concepts in dialogue: an exploratory study_. **Greta Gandolfi**, Holly P. Branigan, Martin J. Pickering.
 
+**Talk**. 10 May 2023. Interaction Lab Meeting at Heriot-Watt University. Edinburgh (UK). _Can we talk about contestable concepts with social robots? Alignment in HRI: A perspective from the psychology of dialogue._ **Greta Gandolfi**, Martin J. Pickering, Gabriel Skantze.
+
 **Talk**. 22 September 2022. XPRAG 2022. Pavia (IT). _Social status modulates lexical entrainment, but only when we are paying attention_. **Greta Gandolfi**, Anita Tobar Henríquez & Martin J. Pickering.
 
 **Poster**. 09 September 2022. AMLaP 2022. York (UK). _Social status, language use, and context: Insights from lexical entrainment_. **Greta Gandolfi**, Anita Tobar Henríquez & Martin J. Pickering.
