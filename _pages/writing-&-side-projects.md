@@ -21,9 +21,14 @@ _Italian_
 I also enjoy creating spaces for young researchers and writers by organising small-scale events, both in and outside Academia. 
 
 _Academic Events_
-  * [Psycholinguistics Coffee](https://blogs.ed.ac.uk/psycholingcoffee/), an informal meeting to discuss Psycholinguistic research, presented by internal or external postgraduate students and early career researchers. Talks include published research, work in progress, and practice runs for conference presentations. [Organiser and moderator, with Esperanza Badaya]
+
+_Past_
   * Writing hours and social activities for PhD students in Psychology (PPLS, UoE). Writing hours are open, hybrid sessions where students can meet to write, discuss their writing process and ask for help. [Organiser, with Esperanza Badaya]
-  * [LINk2022](https://linkedi2022.github.io/), a two-day event, targeting postgraduate students and early-stage career researchers who are interested in the Psychology of Language. It is planned for this fall. [Organiser, with Esperanza Badaya]
+  * [LINk2022](https://linkedi2022.github.io/), a two-day event, targeting postgraduate students and early-stage career researchers who are interested in the Psychology of Language. [Organiser, with Esperanza Badaya, @University of Edinburgh]
+
+_Current_
+  * [(Mis)alignment in Alignment Research](https://www.cobra-network.eu/misalignment-workshop/), a two-day workshop to discuss alignment, the related terminology and how scientists study alignment in interaction. [Organiser with Lena Huttner and Joanna Kruyt, @Aix-Marseille University]
+  * [Psycholinguistics Coffee](https://blogs.ed.ac.uk/psycholingcoffee/), an informal meeting to discuss Psycholinguistic research, presented by internal or external postgraduate students and early career researchers. Talks include published research, work in progress, and practice runs for conference presentations. [Organiser and moderator, previously with Esperanza Badaya, at the moment with Nora Kennis and Shuting Chen]
   
 _Non-Academic Events_
   * [EchoCollettivi](https://www.instagram.com/p/CX6dJs6t36y/), a collection of 30 associations, groups and collectives that - at various levels - embrace the community and mobilize towards environmental, social, artistic and cultural causes. [Organiser]
