@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Journal Paper**. Ludivine Crible, **Greta Gandolfi**, Martin J. Pickering. 2023. Feedback quality and divided attention: exploring commentaries on alignment in task-oriented dialogue (_In press_). Language and Cognition.
+**Journal Paper**. Ludivine Crible, **Greta Gandolfi**, Martin J. Pickering. 2024. [Feedback quality and divided attention: exploring commentaries on alignment in task-oriented dialogue](https://www.cambridge.org/core/journals/language-and-cognition/article/feedback-quality-and-divided-attention-exploring-commentaries-on-alignment-in-taskoriented-dialogue/90A073D74A15A366C5473BFD629DDE1D). Language and Cognition.
 
 **Comment**. **Greta Gandolfi**, Martin J. Pickering. 2023. [Ideography in interaction, a comment on The puzzle of ideography, by Oliver Morin (2022)](https://doi.org/10.1017/S0140525X22002801). Behavioral and Brain Sciences.
 
