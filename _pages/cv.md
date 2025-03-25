@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the updated version of my CV here [here](CV_GretaGandolfi.docx)
+You can find the updated version of my CV here [here](https://gretagandolfi.github.io/files/CV_GretaGandolfi.docx). 
