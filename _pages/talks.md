@@ -4,6 +4,17 @@ title:
 permalink: /talks/
 author_profile: true
 ---
+
+***Invited Talks***
+
+**Panel Discussion**. 30 May 2024. MOSAIC meeting. Online. Commentary on Alignment in Multimodal Interaction: An Integrative Framework (Rasenberg et al., 2020). Greta Gandolfi
+
+**Talk**. 10 May 2023. Interaction Lab Meeting at Heriot-Watt University. Edinburgh (UK). Can we talk about contestable concepts with social robots? Alignment in HRI: A perspective from the psychology of dialogue. Greta Gandolfi, Martin J. Pickering, Gabriel Skantze
+
+---
+
+***Talks at conferences and seminars***
+
 **Poster**. 01 September 2023. AMLaP 2023. San Sebastian/Donosti (SP). _Lexical entrainment in human-machine interaction: effects of competence and attention_. **Greta Gandolfi**, Martin J. Pickering, Holly P. Branigan.
 
 **Poster**. 31 May 2023. PiF 2023. Ghent (BE). _Contested concepts in dialogue: an exploratory study_. **Greta Gandolfi**, Holly P. Branigan, Martin J. Pickering.
