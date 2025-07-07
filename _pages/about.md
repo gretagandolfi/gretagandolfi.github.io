@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I just obtained a PhD from the School of [Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls), at the University of Edinburgh (UK). During my PhD, I was also an Early Stage Researcher in the [CoBra Network](https://www.cobra-network.eu), and I worked on alignment tin human-human and human-robot interactions. 
+I am now working as a Research Fellow at University College London, on the [ECOLANG project](https://www.ucl.ac.uk/brain-sciences/pals/research/experimental-psychology/research/language-and-cognition-lab/research/ecolang-corpus/about-ecolang). 
+
+In March 2025, I obtained a PhD from the School of [Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls), at the University of Edinburgh (UK). During my PhD, I was also an Early Stage Researcher in the [CoBra Network](https://www.cobra-network.eu), and I worked on alignment tin human-human and human-robot interactions. 
 
 I studied alignment in conversation, i.e. why and how people come to see the world in a similar way by talking to each other. In conversation, speakers come to understand each other by creating similar mental representations of what is discussed. Alignment often comes effortlessly, and yet its underlying mechanisms aren't trivial. Having similar representations of what is a _ferry_, for example, may only require speakers to have seen a ferry, have been on one or have read about one. But when it comes to abstract or contestable concepts (e.g., _freedom_, _justice_ or _utopia_), speakers' idiosyncratic background knowledge, past experience and philosophical stances get in the way. 
 
