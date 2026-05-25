@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-In July 2025, I joined the Language and Cognition Lab at University College London as a Research Fellow. Here, I work on how adults and children learn in interaction with others across cultures (UK, China, Italy, Morocco), using experimental and corpus analysis methods. 
+In July 2025, I joined the [Language and Cognition Lab](https://www.ucl.ac.uk/brain-sciences/pals/language-and-cognition-lab) at University College London as a Research Fellow. Here, I work on how adults and children learn in interaction with others across cultures (UK, China, Italy, Morocco), using experimental and corpus analysis methods. 
 
 Before then, I held some research and teaching posts at the University of Edinburgh. For my research posts, I worked on language evolution, social learning and data analysis. In my teaching posts, I assisted undergraduate and postgraduate students with academic writing and stats.
 
