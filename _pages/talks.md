@@ -15,6 +15,12 @@ author_profile: true
 
 ***Talks at conferences and seminars***
 
+**Poster**. 29 July 2026. ESLP. Lancaster (UK). Learning new words and concepts in adulthood from and with others. **Greta Gandolfi**, Greg Woodin, Abdellah Fourtassi, Yan Gu, Gabriella Vigliocco
+
+**Talk**. 29 July 2026. ESLP. Lancaster (UK). Multimodal coordination in early word learning interactions. Multimodal coordination in early word learning interactions. Greg Woodin, **Greta Gandolfi**, Yan Gu, Abdellah Fourtassi, Gabriella Vigliocco. [talk delivered by Greg]
+
+**Poster**. 19 February 2026. NECD (3rd edition). London (UK). Learning words through interaction: Verbal coordination in child-caregiver dynamics. Greg Woodin, Greta Gandolfi, Yan Gu, Abdellah Fourtassi, Gabriella Vigliocco.
+
 **Poster**. 01 September 2023. AMLaP 2023. San Sebastian/Donosti (SP). _Lexical entrainment in human-machine interaction: effects of competence and attention_. **Greta Gandolfi**, Martin J. Pickering, Holly P. Branigan.
 
 **Poster**. 31 May 2023. PiF 2023. Ghent (BE). _Contested concepts in dialogue: an exploratory study_. **Greta Gandolfi**, Holly P. Branigan, Martin J. Pickering.
