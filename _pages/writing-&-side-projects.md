@@ -3,7 +3,7 @@ permalink: /writing-&-side-projects/
 title: 
 ---
 
-I like writing and I've got the opportunity to make some experiences throughout my school years. As part of an internship program, during my bachelor's, I was an editorial assistant at [Centro Study Politeia](http://www.politeia-centrostudi.org), Università Degli Studi di Milano. I was one of the editors and the chair of the [CoBra Network Research Blog](https://cordis.europa.eu/project/id/859588) and one of the editors at [Echoraffiche](https://echoraffiche.com). Echoraffiche is an Italian slow-journalism online magazine and cultural organisation based in Brescia, committed to valuing the local roots of our project, keeping an eye on and being inspired by what happens at the national and global levels.  
+I like writing, and I've had the opportunity to experiment with it through media and contexts. As part of an internship program during my bachelor's, I was an editorial assistant at [Centro Studi Politeia](http://www.politeia-centrostudi.org), Università Degli Studi di Milano. During my PhD in Edinburgh, I edited and chaired the [CoBra Network Research Blog](https://cordis.europa.eu/project/id/859588). I also took part as an editor and writer for [Echoraffiche](https://echoraffiche.com), a slow-journalism online magazine and cultural organisation based in Brescia. In 2024 I contributed to one of the weekly editions of D - La repubblica.
 
 Here are some selected pieces published for Echoraffiche (in Italian): 
 
